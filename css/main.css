@@ -4278,3 +4278,33 @@ form textarea:required:valid {
 /* ------------------------------------------------*/
 /* Features Socials End */
 /* ------------------------------------------------*/
+/* Voeg de nieuwe CSS-regels toe aan het einde van je bestaande CSS-bestand */
+.content__block {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.grid-item.about-descr {
+  width: 100%;
+  padding: 0 20px; /* Zorgt voor padding aan beide kanten */
+  box-sizing: border-box;
+}
+
+.h2__title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-descr__text {
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 20px; /* Zorgt voor ruimte tussen de alinea's */
+}
+
+@media (min-width: 1200px) {
+  .grid-item.about-descr {
+    max-width: 700px; /* Limiteer de breedte voor een betere uitlijning */
+  }
+}

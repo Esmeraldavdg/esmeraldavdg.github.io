@@ -108,15 +108,15 @@
   --stroke-controls--dark: #F5F5EF;
   --stroke-controls-neutral--dark: rgba(255,255,255,0.3);
   --stroke-elements--dark: #F5F5EF;
-  --t-bright--dark: #CB6CE6;
+  --t-bright--dark: #FFFFFF;
   --t-medium--dark: #F5F5EF;
   --t-muted--dark: #F5F5EF;
   --t-accent--dark: #F5F5EF;
-  --t-secondary--dark: #DCD8D3;
+  --t-secondary--dark: #8D827D;
   --t-disabled--dark: #F5F5EF;
   --t-placeholder--dark: #F5F5EF;
   --base-opp--dark: #fafafa;
-  --t-opp-bright--dark: #5E17EB;
+  --t-opp-bright--dark: #F5F5EF;
   --t-opp-medium--dark: #0CC0DF;
   --t-opp-muted--dark: #FF914D;
   --gradient-one--dark: #AA9D8F;

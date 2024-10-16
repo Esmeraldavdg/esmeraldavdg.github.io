@@ -75,10 +75,10 @@
   --_animspeed-slow: 0.6s;
   --_animbezier: cubic-bezier(0.23, 0.65, 0.74, 1.09);
   /* light color scheme */
-  --base--light: #DCD8D3;
-  --base-tint--light: #CDC6BF;
+  --base--light: #E8E5E2;
+  --base-tint--light: #FFFFFF;
   --base-shade--light: #B0A69B;
-  --accent--light: #9F9180;
+  --accent--light: #69443C;
   --secondary--light: #847562;
   --secondary-rgba--light: rgba(112,89,226,0.3);
   --stroke-controls--light: #B0A69B;
@@ -87,17 +87,17 @@
   --t-bright--light: #7B6D5C;
   --t-medium--light: #424550;
   --t-muted--light: #666a79;
-  --t-accent--light: #8f56cc;
-  --t-secondary--light: #5d4ec4;
+  --t-accent--light: #69443C;
+  --t-secondary--light: #38352F;
   --t-disabled--light: #717586;
   --t-placeholder--light: #969bb2;
   --base-opp--light: #111111;
   --t-opp-bright--light: #ebf0f7;
-  --t-opp-medium--light: #C7C6D3;
-  --t-opp-muted--light: #A1A1AF;
-  --gradient-one--light: #CEC4EF;
-  --gradient-two--light: #f5c5cd;
-  --gradient-three--light: #ac8fe3;
+  --t-opp-medium--light: #837B73;
+  --t-opp-muted--light: #837B73;
+  --gradient-one--light: #CDC4BB;
+  --gradient-two--light: #FFFFFF;
+  --gradient-three--light: #9F9180;
   /* dark color scheme */
   --base--dark: #111111;
   --base-tint--dark: #161616;
